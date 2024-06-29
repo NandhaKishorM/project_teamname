@@ -1,9 +1,9 @@
-# Problem
+# Problem Statement
 the problem you are trying to solve
 
 # Solution
 
-Include detailed description of transformers architecture, fine-tuning, quantization google colab notebook links 
+Include detailed description of transformers architecture including tokenization, fine-tuning, quantization google colab notebook links 
 
 1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repository/master/path_to_notebook.ipynb) 
 
